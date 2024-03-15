@@ -1,0 +1,167 @@
+AntiGhost
+by Giselbaer
+1.18.2-fabric0.47.10-1.1.4
+
+Chunky
+by pop4959
+1.2.164
+
+Cloth Config API
+by shedaniel
+6.5.102
+
+Clumps
+by jaredlll08
+8.0.0+17
+
+Concurrent Chunk Management Engine (Fabric)
+by ishland
+0.2.0+alpha.7.40+1.18.2
+
+Cull Less Leaves
+by isxander
+1.0.1
+
+Debugify
+by isxander
+1.11.0-fabric
+
+Dynamic FPS
+by juliand665
+3.3.2
+
+Enhanced Block Entities
+by FoundationGames
+0.7.1+1.18.2
+
+Entity Culling
+by tr7zw
+1.6.1-1.18.2
+
+Exordium
+by tr7zw
+1.0.1-1.18
+
+FPS Reducer
+by bre2el
+1.18.2-2.0
+
+Fabric API
+by modmuss50
+0.76.0+1.18.2
+
+Fabric Language Kotlin
+by modmuss50
+1.10.17+kotlin.1.9.22
+
+FerriteCore
+by malte0811
+4.2.1-fabric
+
+Get It Together, Drops!
+by bl4ckscor3
+v1.3
+
+ImmediatelyFast
+by RaphiMC
+1.1.12+1.18.2
+
+Indium
+by comp500
+1.0.7+mc1.18.2
+
+Iris Shaders
+by coderbot
+1.6.11+1.18.2
+
+Krypton
+by astei
+0.1.9
+
+Language Reload
+by Jerozgen
+1.5.4+1.18.2
+
+LazyDFU
+by astei
+0.1.2
+
+Lithium
+by jellysquid3
+mc1.18.2-0.10.3
+
+MaLiLib
+by masa
+0.12.1
+
+MagicLib
+by hendrix-shen
+0.7.398
+
+Memory Leak Fix
+by FX
+v1.1.2
+
+Model Gap Fix
+by MehVahdJukaar
+1.8
+
+ModernFix
+by embeddedt
+5.9.2+mc1.18.2
+
+More Culling
+by FX
+v0.8.2-1.18
+
+Reese's Sodium Options
+by FlashyReese
+mc1.18.2-1.6.3
+
+Remove Reloading Screen
+by dima_dencep
+1.18.2-3.1.0-fabric
+
+Smooth Boot (Fabric)
+by UltimateBoomer
+1.18.2-1.7.0
+
+Sodium
+by jellysquid3
+mc1.18.2-0.4.1
+
+Sodium Extra
+by FlashyReese
+mc1.18.2-0.4.18
+
+Starlight (Fabric)
+by spottedleaf
+1.0.2+1.18.2
+
+Too Many Players
+by Feytox
+1.18.2-1.1.4
+
+Translations for Sodium
+by robotkoer
+v1.11.0
+
+VanillaXBR
+by misterk7_-
+0.20
+
+Very Many Players (Fabric)
+by ishland
+0.2.0+beta.3.126+1.18.2
+
+Video Tape
+by Anthus
+1.2.1
+
+[📦] No Unused Chunks
+by TheCSDev
+v2.0+fabric-1.18.2
+
+fast-ip-ping
+by fallen-breath
+mc1.18.2-v1.0.1
